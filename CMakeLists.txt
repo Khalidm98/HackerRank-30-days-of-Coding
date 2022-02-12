@@ -4,7 +4,7 @@ project(CPP_30_DAYS)
 set(CMAKE_CXX_STANDARD 14)
 
 # select source file to run (day_xx.cpp)
-add_executable(CPP_30_DAYS day_28.cpp)
+add_executable(CPP_30_DAYS day_29.cpp)
 
 #add_executable(
 #        CPP_30_DAYS
